@@ -109,6 +109,6 @@ Understand the differences between k-means and k-medoids clustering and how they
 3. Run the scripts for each problem to generate the results and visualizations.
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/mikyge2/AI-CS488-ML-Problems/tree/main)>
 cd <repository-directory>
 
